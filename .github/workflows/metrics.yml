@@ -30,7 +30,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          commits_authoring: celesica, Celesica, j.enelya13@gmail.com
+          commits_authoring: celesica, Celesica
           
           
         
