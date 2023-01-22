@@ -1,1 +1,1 @@
-[<img align="center" width="400" src="https://github.com/celesica/celesica/blob/main/metrics.svg">](#)
+<p align="center"><img src="https://github.com/celesica/celesica/blob/main/metrics.svg">
