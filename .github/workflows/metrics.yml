@@ -33,4 +33,5 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
-          
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.32
