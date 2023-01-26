@@ -13,13 +13,9 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 - 💪 2023 Goal: Get that Kendo Shodan rank
 
 <table>
-<tr>
-<td><img src="https://github.com/celesica/celesica/blob/main/metrics.svg"></td>
-<td><img src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c"></td>
-</tr>
-<tr>
-<td><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=celesica&bg_color=FFFFFF00&color=8c4957&line=bd7a88&point=fad66c&hide_border=true"></td>
-<td><img src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c"></td>
+<tr border="0">
+<td border="0"><img src="https://github.com/celesica/celesica/blob/main/metrics.svg"></td>
+<td border="0"><img src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c"></td>
 </tr>
 </table>
 <p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=celesica&bg_color=FFFFFF00&color=8c4957&line=bd7a88&point=fad66c&hide_border=true"></p>
