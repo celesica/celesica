@@ -15,6 +15,6 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 <table>
 <tr>
 <td><img src="https://github.com/celesica/celesica/blob/main/metrics.svg"></td>
-<td><img src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c"></td>
+<td><img src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=celesica&bg_color=FFFFFF00&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"></td>
 </tr>
 </table>
