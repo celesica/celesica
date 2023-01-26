@@ -59,4 +59,4 @@ jobs:
           template: classic
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs
+          plugin_wakatime_sections: time, languages, editors, editors-graphs
