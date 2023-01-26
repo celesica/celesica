@@ -14,4 +14,6 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 
 <img align="left" src="https://github.com/celesica/celesica/blob/main/metrics.svg" width="500px;"><img align="right" src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c" width="400px;"><img align="right" src="https://github.com/celesica/celesica/blob/main/habits.svg" width="400px;">
 
+<img align="left" src="https://github.com/celesica/celesica/blob/main/wakatime.svg" width="420px;" style="padding-right: 10px;"><img align="right" src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c" width="370px;" style="padding-left: 10px;"><img align="right" src="https://github.com/celesica/celesica/blob/main/habits.svg" width="370px;">
+
 <p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=celesica&bg_color=FFFFFF00&color=8c4957&line=bd7a88&point=fad66c&hide_border=true"></p>
