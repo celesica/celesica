@@ -11,6 +11,7 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 - 💻 Currently learning awesomeness in a Coding Bootcamp
 - 💼 Striving to complete my Computer Vision thesis
 - 💪 2023 Goal: Get that Kendo Shodan rank
+<a href="https://wakatime.com/@88edce5e-dd8c-4439-aabc-294b6d660532"><img align="left" src="https://wakatime.com/badge/user/88edce5e-dd8c-4439-aabc-294b6d660532.svg" alt="Total time coded since Jan 17 2023" /></a>
 
 <br>
 
@@ -18,6 +19,6 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 
 <img align="left" src="https://github.com/celesica/celesica/blob/main/metrics.svg" width="420px"><img align="right" src="https://streak-stats.demolab.com?user=celesica&theme=monokai-metallian&hide_border=true&background=FFFFFF00&sideLabels=8c4957&sideNums=b16e7c" width="370px"><img align="right" src="https://github.com/celesica/celesica/blob/main/habits.svg" width="370px">
 
-<img align="left" src="https://github.com/celesica/celesica/blob/main/wakatime.svg" width="420px"><a href="https://wakatime.com/@88edce5e-dd8c-4439-aabc-294b6d660532"><img align="left" src="https://wakatime.com/badge/user/88edce5e-dd8c-4439-aabc-294b6d660532.svg" alt="Total time coded since Jan 17 2023" /></a>
+<img align="left" src="https://github.com/celesica/celesica/blob/main/wakatime.svg" width="420px">
 <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph/?username=celesica&bg_color=FFFFFF00&color=8c4957&line=bd7a88&point=fad66c&hide_border=true" width="370px">
 
