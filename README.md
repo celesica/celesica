@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/10039521/214786507-a9cb479e-aa14-41fb-9112-7f6b0bbf5325.png"></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C78492&center=true&vCenter=true&width=435&lines=kendoka%2FSTEMinist+%EF%BD%A5%EF%BE%9F%E2%9C%A7" alt="Typing SVG" /></p>
 
-<img width="280" align="right" alt="Github"
+<img width="250" align="right" alt="Github"
 src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-4e7d-aa9d-d134e1cbcbf0.jpg">
 
 
