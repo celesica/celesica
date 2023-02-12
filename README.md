@@ -10,7 +10,7 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 - 🎓 Computer Science student by day, Digital Marketing Manager at night
 - 💼 Striving to complete my Computer Vision thesis
 - 💪 2023 Goal: Get that Kendo Shodan rank
-- 💻 Currently learning: <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+- 💻 Currently learning: ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 <br>
 
