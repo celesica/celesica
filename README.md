@@ -11,7 +11,7 @@ src="https://user-images.githubusercontent.com/10039521/214795479-d6cd90c2-8e82-
 - 💻 Currently learning awesomeness in a Coding Bootcamp
 - 💼 Striving to complete my Computer Vision thesis
 - 💪 2023 Goal: Get that Kendo Shodan rank
-<a href="https://wakatime.com/@88edce5e-dd8c-4439-aabc-294b6d660532"><img align="left" src="https://wakatime.com/badge/user/88edce5e-dd8c-4439-aabc-294b6d660532.svg" alt="Total time coded since Jan 17 2023" /></a>
+- <a href="https://wakatime.com/@88edce5e-dd8c-4439-aabc-294b6d660532"><img src="https://wakatime.com/badge/user/88edce5e-dd8c-4439-aabc-294b6d660532.svg" alt="Total time coded since Jan 17 2023" /></a>
 
 <br>
 
