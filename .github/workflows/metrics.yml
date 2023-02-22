@@ -30,6 +30,8 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_threshold: 0%
+          plugin_languages_ignored: html, css
+          plugin_languages_skipped: celesica/obsidian-gitsync
           plugin_isocalendar: yes
           
       - name: Habits
