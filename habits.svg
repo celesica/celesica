@@ -286,13 +286,13 @@
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
                                     <path fill="#DA5B0B" d="M0,-80A80,80,0,1,1,0,80A80,80,0,1,1,0,-80Z">
                                         <title>Jupyter Notebook
-91.55</title>
+78.35</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
                                     <text transform="translate(2.4492935982947065e-15,40)">
                                         <tspan x="0" y="0em" font-weight="bold">Jupyter Notebook</tspan>
-                                        <tspan x="0" y="1.1em">91.55</tspan>
+                                        <tspan x="0" y="1.1em">78.35</tspan>
                                     </text>
                                 </g>
                             </svg>
