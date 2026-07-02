@@ -77,6 +77,6 @@ jobs:
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "celesica"
+          plugin_steam_user: "76561198073363470"
           plugin_steam_sections: player, recently-played
 
