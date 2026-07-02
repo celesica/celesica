@@ -41,7 +41,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           
       - name: Habits
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           filename: habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -56,7 +56,7 @@ jobs:
           plugin_habits_charts_type: graph
           
       - name: WakaTime
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -67,4 +67,15 @@ jobs:
           template: classic
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_sections: time, languages, editors, editors-graphs, os
+          plugin_wakatime_sections: time, projects, languages, editors, editors-graphs, os
+
+      - name: Profile and detailed game history
+        uses: gh-metrics/metrics@latest
+        with:
+          filename: metrics.plugin.steam.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "0"
+
