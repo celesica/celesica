@@ -31,9 +31,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 10
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_categories: data, markup, programming, prose
+          plugin_languages_recent_load: 100
+          plugin_languages_recent_days: 7
+          plugin_languages_recent_categories: markup, programming
           plugin_languages_threshold: 0%
           plugin_languages_ignored: html, css
           plugin_languages_skipped: celesica/obsidian-gitsync
