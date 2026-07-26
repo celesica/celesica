@@ -52,15 +52,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQgEBgcDAgH/xAArEAABAwMEAQMEAgMAAAAAAAABAgMEAAURBhIhMQciQVETFUKBCJEUMlL/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EACURAAIDAAEDAgcAAAAAAAAAAAECAAMRIQQSMSJBBRMjMoGhwf/aAAwDAQACEQMRAD8AWyDEKclXdTwg4xXYI/5ro20Sa1KntJkznGiuPupZZ9TqjgJHvRu/6Tu2n0srukRyMh9IKd47zX2xOrt9zjTG0pUWVbgkjOa29Wr4PkXUlittygqbitlKVE+5xVxSfOcRSw8RdvoZGFHj2V8V4U10CcEdH5pjfLvh5u2x1XPT6CuPj1tDkgfNYS9E2+lST6T/AEaK1ixe5Z2kQIpG2oU2LvTkd0aea2nquCkc8jioOmRgZJS1UyPHJrq2xzRKJHrXVVpkmee7dBU+42hCckngY5JpofHvje3QrTBly2iLgD9QHPz1Wd+DNOMXO/KekoC244CwD1mmVACQEpxhPAx7Ch1txrytIahvM5vMtvxlR3EhTak7SDSheVtMfYtUSWm04aWd4/dOCT89Vh/8h4CS5FkpT6lHBP6qXw9vqdh941v27Fplx8Z4oe41irPOj8Gg77FaL68MmrbCTTXPVEordcm0VOjJrXWuGZmaal4SvDVrvi48g4RJAQFZ6rbIUGY3f35Tj2+KtACAOqWfTMJ6fc48aOSHlqwlQOMVuLzmodKwGip1MtjAzgZIqHWU6/pI7m45/krVZxyPEtN2t8qTdYj7Mj6cdpW5ac91kXnC8NT57URhQUGeTV8hvag1JCVyIbKxj1J5P7rGdb2d6y3VyPIUpxZ5Kyc0OhpAsxyNX2ENz+nQJQprec0Ifao/LT3Qt5utN67Iq0koSPxqYyOOf9hVU0xqBmcyWpCtr2eKtLahwR0KehlsGqZKwFThlo0g1JfvkZqI6GpKlDCvYUxsaCzboSXr5MS4tKQSSfT/AFStW+a5EfaejrKXUKyDRy76suV3x/mySUJSEhKTjNHqOke9gAcH7jVXBAdHMYOJfPve9ixuNNtp4KyOP1WHeSI0mJfltTH/AK7ne4H2oLbL9LtawqG+ptQ574ND7ncXbhJXIlulx0/lmjR0XyHJBGZ+Z1l3euHzB743ZP5fFQXUEZ3VMcWkkqzxVd1Heo9uiLSlW59XQrryqjWioCxwT//Z" alt="" />
                             <div class="about">
-                                <div class="name">Focus Grove</div>
+                                <div class="name">Cozy Grove</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Simulation
+                                        Casual, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        16 hours played
+                                        89 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Jul 2026
+                                        Last played on 25 Jul 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 18 achievements unlocked
+                                            54 / 70 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQHAwX/xAArEAACAQIGAQMEAgMAAAAAAAABAgMEEQAFBhIhQQcTIjEUYXGBFhdR0eH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIREBAAIDAAIBBQAAAAAAAAAAAQIRAAMhBDFBUWFxkaH/2gAMAwEAAhEDEQA/AH/F/j6grsjXUOpIpJ6WR9tLRq1hJ7toZuRe5vYXAsLnFITTemAEfLMmp6SsdAEjeAKZY24sR0D0T3x3gtJxSf1/luVsiGvp6ZGjRWBSVl5G09/9ON6ovVUst8qaKSHZHFM0qhQwHGxr82v1f4PYxhzm+UMqZDZxedSqPtT33jYRjI605jUaNymWoi9bT9BW1042sXAVYkW3t/QJ5Hf+Rib+VPHdBl2SDUOm43iowFaopGJIRTb3Lf4sSLi9uxixR5gnqk08rS1LD0g7KI+DyfTRjc32n3Mev1jka7ljl0HmlDRBWeWkYKGNljXbxuJ+DbrFu2GnwtcZa50iHV6LTZdfjhVZNFmvTmFoMCp0jkdbUsvr1UALvGNojQIWKoOiQLX+fnHRq6iOOh+oeeOORgnKEExISPag6sD1+cSLxR5Gy/K8pTIdSkpRxsTTVViQgJvta3IsSbH72xRU1PpMR+hkuZUDzbS/tk4iTtv9YOvbr8HTPXKKPfQ9taROeqO+qwShKUx+MdmehjoGpo0ZI5VI+pnHAY88seb/AIwnrho/4LmtdTqsNVFRlikie1lK8BlPz2AcBXa4yWjpZI3zHLlzFAp2vIAJENrOLd26viaeUfIdLm2XPk+Rs0lM421FSRYMN24qvA+SB9rDu5OJ9Hiat2m4LJkxelVTb/P39cds3S2SBKrP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYDAQT/xAAtEAABAwMDAgQFBQAAAAAAAAABAgMEBQYRABIhMUEHIkJhExRRcXIVJDKR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAf/EACIRAAIBBAEEAwAAAAAAAAAAAAEDAgAEESETEjFBgVFhcf/aAAwDAQACEQMRAD8ACPDexXrvlSX5UlNOoMBIcnVBwZDYPRKR6lnoBprty3aE21JTa1nU+RGiI3Oza2PmX1+5byEIPfb99Z0anNUqwbOo7Q2h2KK3KAAw866ohG78UA4/zVPPluTm5c+GiNAZCEtOMs5TvCQR5sDnjaB1A3DJGps5MgLA/T68fYzRpMBJyambht+iORY5uyzKfFiyxlmdRf2z6OP5fDyUK+uD7dzoX8SbEfs+TFkRpKajQagkuQag2nAcA6pUPStPQjT5R6vIhLaly2UTozWWEMSOQ2FJBBAOcAjPTU27H/X7AvikSkgpjMqrMQYA+C60rzgDHGUKAP1xoVnctnLjcN9waqTGO4nVdRVnql4a2lXaZtdMKKKNOQMZbW0olvP03JJx74HOdbQnlzaR883IdHKvJxgcgc89zjt20O+HF9SrNmyUKYRPo05IanU94+R5PYg+lQ7EaT4jllVd1M6gXWxSnFHKodXSptafYuJBSv74zq1ylk9rlim2j0qzF8AR4OM1cP0iE3RxOU4gFQG5AwCAcA482cgHPTotHA51NTH41ueG121bCm0zY5pET4hG51x0grx+KRzr0VStWdSg5LrV2RZxxxCooLq3OOm8gJR9+v8AWhbxHvqXec2OkMIg0eEktwoDR8jKe5J9Sj1JOjWFkxUuRp38Vly5cx0KHvFf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Morning Wisdom</div>
-                                                <div class="unlocked">11 Jun 2026</div>
+                                                <div>Seasonality: Elite</div>
+                                                <div class="unlocked">9 Mar 2023</div>
                                             </div>
-                                            <div class="description">Receive your first lesson from the Zen Master.</div>
+                                            <div class="description">Play in multiple seasons: 4</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwACBQYBAwT/xAAqEAACAQIFAwQDAAMAAAAAAAABAgMEEQAFBiExBxJBExQiYSNRcSSRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAgEQABBAICAwEAAAAAAAAAAAABAgMRIQAxE0ESIpEj/9oADAMBAAIRAxEAPwB/S/RuV1/sqzUEMlR7tv8AFowe1SgJBkc+dwduNt/1goRZPpWkz6Who8koocwj/EEEYInjYG4vxwL/AOsPySnkpemVDRz0kc9XT0StGiP8JSFvdGHkDe3POI7TAiqKKgeeSF0ZTKZIwyizEdoZtvlcNc/wYg22SvkdJCgT2YEGAIoXnMtQeQQkyDWTs2k9MVFexzLJqKSslQWUxCyoNgg8EjzbAz6udNqHJ8rfPNOo0VLGQKmluSqgm3ct9xYkXH3cYJOYeg1ZGOz01jKqxST5OgF2fbhd+eTY7Y3dQVep0RnlJTKjyvTP3MzBUQW8k+bb2/mG61p1kkrkTZg3dTGvmFC+H0VrM6ELV+i8mrKv03nnplFkXtSMEWsqjjbzziq0tPmQymGrRFqDIpRlj+JUhmBLKNjvx4AxWOkfUqiybLEyPUTtHSRsTTVQBIUE37GtuLEmx+7HFzyPUeUe49tQ6goe0NNKSHHwiLliST5sQB/zE0nklh4HyJNwbuReqHzEpIYBUkUM4MmynMIKn0YIe1JIY1cxyDt7lXtJY82I5t+vGJ/VUctB04zaeJ1E0FGyXkUFZVC2+Sn6uAeeNzhT6ryKmqHpK/UNDH6ZEguw/IpFwf1gedW+pNFnGVNkennaSkkI9zVdpVWAN+1b7m5Aufqwxrqv0KGQQskTRgARN6sdd4W0B1IKrGf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUEAQP/xAAvEAABBAECBQMCBQUAAAAAAAABAgMEBREABgcSITFBEyJCJGEUFiMycVFSgqHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAjEQACAgEDAwUAAAAAAAAAAAABAwACEgQxQRMhcRFRYYHh/9oADAMBAAIRAxEAPwAH4b7Ge3dKlSJUpFbQV6Q5PsHBlLSfCUj5LPgaXdv19Ahif+TtlQJ0SvRzSJ119Q+r7+mVBCDjJ5R2GfI1xqqNfw62bSQihv14ybuXzdnnHFewK6deVAIH/NUNwmynqNjDixaqBKbEdxERfKhfISkBzAH8DPT/AFrJqHMqcFDyfb6jFJDBlfbiYb6ro3IUJe8tkwIMScnLE+l+neT0/d6YJQr+uD9vJ0RcSNivbQkxZMWUmyoLBJcgWDYwlwDulQ+K09iNOO3xZQG27OQiPbRYaVRlRZWShgEAEpJBHLjocYx5HfUJEF244d73pp4bUmM0q5hhOP0HWle8AY6ZQoA/xooawnBoHwRzI1IWMqbczVDtVWnDjaV5ACHfwcQU01HltxpRLecduZBOPvgddbKu5JhPmOpSmJSSFRwMqcI6Ej+3AyCryOgHY6E+HG+pezZshCmET6ackNzoDp9jyfBB+Kh4I0s19js20dTOod1R6txRCnIlulTSx07FxIKV9++M6LU2NupTeN02pouvTcO3H7Ka4ym48iQt8LiJHIpKCptspUkgBGCM4xzY7+Sc6nKlN0HDHdlu8p1ImxzUQ/WI53nHSC4f8UjJ++vWxsNnVXPLvt4MWPTKYFLzOqXkZICyAlGT3PfQ9xH31L3lNjoDCIFPCSW4MBo+xlPkk/JR8k6CFMByYfAlHurcYU7+u5n/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Wisdom Finds a Home</div>
-                                                <div class="unlocked">11 Jun 2026</div>
+                                                <div>Artisan: Elite</div>
+                                                <div class="unlocked">22 Dec 2022</div>
                                             </div>
-                                            <div class="description">Welcome the Zen Master to your grove.</div>
+                                            <div class="description">Craft items: 500</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+52 others...</div>
                                         </div>
                                     </div>
                                 </div>
