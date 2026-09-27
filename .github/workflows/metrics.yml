@@ -69,8 +69,13 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, languages, editors, editors-graphs, os
 
+      # Steam's storefront API (appdetails) intermittently blocks datacenter IPs,
+      # which leaves game genres undefined and crashes the classic template's
+      # steam partial. Keep this step non-fatal so a Steam outage can't fail the
+      # whole run; steam.svg retains its last good render until the API recovers.
       - name: Profile and detailed game history
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
+        continue-on-error: true
         with:
           filename: steam.svg
           token: NOT_NEEDED
@@ -79,4 +84,6 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561198073363470"
           plugin_steam_sections: player, recently-played
+          retries: 1
+          retries_delay: 60
 
